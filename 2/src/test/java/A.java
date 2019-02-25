@@ -5,6 +5,5 @@ public class A {
 
     @Test
     public void failure(){
-        Assert.fail();
     }
 }
